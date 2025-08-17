@@ -1,6 +1,6 @@
 # 🍎🍊 YOLOv8 Object Detection: Apples vs Oranges  
 
-![Demo GIF]([demo.gif](https://github.com/younes-damouna/object-detection-yolo-v8/blob/main/static/demo.gif)) <!-- replace with your actual GIF or screenshot -->
+![Demo GIF](https://github.com/younes-damouna/object-detection-yolo-v8/blob/main/static/demo.gif?raw=true) <!-- replace with your actual GIF or screenshot -->
 
 ---
 
